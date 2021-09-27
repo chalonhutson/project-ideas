@@ -1,0 +1,16 @@
+Capstone Ideas
+
+1. Simple CRM / Digital Rolodex
+     - A very user-friendly platform that lets you log relationships with people along with their contact info. The user can also take notes on them, and schedule moves to having another meeting/call/email/etc. with them, along with logging the details of said meetings and previous ones.
+
+2. Movie rater
+     - An app that connects to your IMDb and has a more user-friendly UI to rate movies, shows that you watch, along with creating a schedule for what you plan to watch next.
+
+3. NFT Hub 2.0
+     - An expansion of Foundation project to make a full-fledged storefront to buy NFT that is connected to various pay accounts to buy art with various payment methods.
+
+4. Cat-sitter app
+     - A specific platform to connect cat-people with cat-people, so when someone has to leave their cat at home they can find good candidates to take care of their pet while they are gone, knowing that they are focused on cats first.
+
+5. Trade your tools
+     - The average power drill is only used for ten minutes in it's entire lifetime. However, a good portion of people feel they need to invest in an expensive one for the rare occassions they actually need it. What if you could rent a drill for just a few bucks from a neighbor. You save money, and eventually the drill pays for itself for said neighbor, after enough people ask to use it. (You can also pay barter style, with steaks, favors, etc.)
